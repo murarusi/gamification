@@ -17,7 +17,7 @@ import java.util.List;
 public final class GameStats {
 
     private final Long userId;
-    private final int score;
+    private final Integer score;
     private final List<Badge> badges;
 
     public GameStats(){

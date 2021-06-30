@@ -1,0 +1,6 @@
+2021-06-29 10:01:51 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * SCORE_CARD[*]"; SQL statement:
+SELECT * SCORE_CARD [42000-200]
+2021-06-29 10:02:03 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT *  FROMSCORE_CARD[*]"; SQL statement:
+SELECT *  FROMSCORE_CARD [42000-200]
